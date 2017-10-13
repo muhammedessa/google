@@ -1,0 +1,33 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-googleplus": {
+            "PACKAGE_NAME": "com.muhammedessa.mytestapp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.muhammedessa.mytestapp"
+        },
+        "cordova-plugin-ionic-webview": {
+            "PACKAGE_NAME": "com.muhammedessa.mytestapp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.muhammedessa.mytestapp"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.muhammedessa.mytestapp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.muhammedessa.mytestapp"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.muhammedessa.mytestapp"
+        }
+    },
+    "dependent_plugins": {}
+}
